@@ -105,7 +105,7 @@ QUIT;
 options mprint mlogic nocenter;
 ********************************************************;
 * THIS MACRO IS TO TRAIN A GENERAL REGRESSION NEURAL   *;
-* NETWORK (SPECHT, 1991) AND STORE THE SPECIFICATION   *;
+* NETWORK AND STORE THE SPECIFICATION   *;
 *------------------------------------------------------*;
 * INPUT PARAMETERS:                                    *;
 *  DATA  : INPUT SAS DATASET                           *;
@@ -116,7 +116,7 @@ options mprint mlogic nocenter;
 *          SPECIFICATION                               *;
 *------------------------------------------------------*;
 * AUTHOR:                                              *;
-*  WENSUI.LIU@53.COM                                   *;
+*  RIMON RONY                                *;
 ********************************************************;
  
 data _tmp1;
